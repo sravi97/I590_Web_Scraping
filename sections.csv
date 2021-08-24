@@ -1,0 +1,22 @@
+section_link,section_name
+whatsnew/3.9.html,What's new in Python 3.9?
+tutorial/index.html,Tutorial
+library/index.html,Library Reference
+reference/index.html,Language Reference
+using/index.html,Python Setup and Usage
+howto/index.html,Python HOWTOs
+installing/index.html,Installing Python Modules
+distributing/index.html,Distributing Python Modules
+extending/index.html,Extending and Embedding
+c-api/index.html,Python/C API
+faq/index.html,FAQs
+py-modindex.html,Global Module Index
+genindex.html,General Index
+glossary.html,Glossary
+search.html,Search page
+contents.html,Complete Table of Contents
+bugs.html,Reporting bugs
+https://devguide.python.org/docquality/#helping-with-documentation,Contributing to Docs
+about.html,About the documentation
+license.html,History and License of Python
+copyright.html,Copyright
